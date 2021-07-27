@@ -1,4 +1,4 @@
-###Dynamic Network Github
+### Dynamic Network Github
 
 👋 Hello, I Am Dynamic I am Interested In:
 - Java Programming, Networking, And Computer Science.
