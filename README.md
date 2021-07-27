@@ -1,7 +1,7 @@
-### Dynamic Network Github
+###Dynamic Network Github
 
--👋 Hello, I Am Dynamic I am Interested In:
-Java Programming, Networking, And Computer Science.
+👋 Hello, I Am Dynamic I am Interested In:
+- Java Programming, Networking, And Computer Science.
 - I am a 16 year old developer who currently works in "Python", "Java", And "JavaScript".
 
 ### 💬 Socials
