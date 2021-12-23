@@ -5,7 +5,7 @@
 - I am a 16 year old developer who currently works in "Python", "Java", And "JavaScript".
 
 ### 💬 Socials
-Discord: dynamic#5817
+Discord: Woah#1337
 
 <!---
 DynamicNetwork/DynamicNetwork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
